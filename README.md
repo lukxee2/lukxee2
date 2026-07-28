@@ -1,7 +1,7 @@
 Hey there, my name is Luke   ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
 
-I'm a 19-year-old student and developer. I started my programming journey in Lua by creating ROBLOX games and soon expanded into the world of Python.
+I'm a 21-year-old student and developer. I started my programming journey in Lua by creating ROBLOX games and soon expanded into the world of Python.
 
 * ✉️  Contact me at [contact@lukerogers.uk](mailto:contact@lukerogers.uk)
 * 💬  I'm learning all things Javascript & Reactjs
